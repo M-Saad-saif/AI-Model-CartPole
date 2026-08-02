@@ -1,3 +1,5 @@
-./_pycache_
+__pycache__/
+*.pyc
+
 cartpole_dqn.pth
 training_results.png
